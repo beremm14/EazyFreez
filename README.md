@@ -1,2 +1,3 @@
 # EazyFreez
-Software for daily measuring the temperature of a freezer
+
+This software monitors the temperatures of my freezers.
