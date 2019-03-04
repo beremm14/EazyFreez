@@ -8,3 +8,4 @@
   * EazyFreezWeb: Angular Web-App Client  
   * EazyFreez_Arduino: µC-Software (Server)  
   * EazyFreez_Electronic: PCB-Design  
+  * EazyFreez_RPI: Raspberry-Software (Server)  
